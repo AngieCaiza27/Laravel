@@ -19,3 +19,6 @@ composer -v //para saber si se instalo
 Crear proyecto con Composer
 composer create-project --prefer-dist laravel/laravel pruebaLaravel
 ------------------------------------------------
+crear controller 
+php artisan make:controller estudianteController
+
