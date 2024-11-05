@@ -1,0 +1,21 @@
+- Descomentar el zip de php.ini 
+-------------------------------------------
+Practica Laravel 
+1 Paso
+Descargar composer para Windows 
+https://getcomposer.org/download/
+Composer -Setup.exe
+------------------------------------------
+2 Paso 
+Al terminar de instalar el composer crear las nuevas variables de path si no se obtiene entrando a las variables del sistema 
+C:\xampp\php\php.exe
+C:\xampp\php
+------------------------------------------------
+3 paso 
+Antes se debe entrar en la carpeta donde se creo el proyecto en el terminal.
+
+composer -v //para saber si se instalo
+
+Crear proyecto con Composer
+composer create-project --prefer-dist laravel/laravel pruebaLaravel
+------------------------------------------------
